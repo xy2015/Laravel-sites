@@ -1,5 +1,5 @@
 # Laravel-sites
-Laravel不权威导航
+Laravel不权威导航:smiling_imp:
 
 ##Laravel 文档
 
@@ -27,7 +27,7 @@ Laravel不权威导航
 ##Laravel 新闻
  - [Laravel News](https://laravel-news.com/) (Laravel官方新闻)  
  
-未完:)
+未完:dog:
 
 
 
