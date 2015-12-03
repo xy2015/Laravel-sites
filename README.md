@@ -9,7 +9,7 @@
  - [Laravel 中文文档](http://laravel-china.org/) {golaravel版}  
 
 ##Laravel 新闻
- - [Laravel News](https://laravel-news.com/) (Laravel官方新闻)  
+ - [Laravel News](https://laravel-news.com/) {Laravel官方新闻}  
  
 ##Laravel 教程
 
@@ -26,7 +26,7 @@
  - [overtrue博客](http://overtrue.me/){Laravel牛人，开发了好几个优质扩展，为Laravel做出了杰出的贡献~}
  - [岁寒](https://lvwenhan.com) {主要推荐[最适合中国人的 Laravel 教程系列](https://lvwenhan.com/laravel/432.html)，非常适合新手入门~}
  - [Enda 袁超博客](http://www.phpyc.com/) {Laravel牛人，开发了好几个优质扩展，为Laravel做出了杰出的贡献+1~}
- - [LaraBase]（http://laravelbase.com/）{翻译的文档不错！}
+ - [LaraBase - 全栈工程师之家](http://laravelbase.com/){翻译的文档不错！}
  - [灵感](https://www.insp.top/) {好文推荐 [laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/article/learn-laravel-container)}
  - [laravel - Kyomini](http://www.kyomini.com/) {PHP和Laravel博客值得一看}
  - [laravel.so - laravel技巧](http://laravel.so/) {一些laravel开发应用技巧}
