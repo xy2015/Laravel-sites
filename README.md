@@ -31,6 +31,7 @@
  - [laravel - Kyomini](http://www.kyomini.com/) {PHP和Laravel博客值得一看}
  - [laravel.so - laravel技巧](http://laravel.so/) {一些laravel开发应用技巧}
  - [芒果笔记](http://note.mango.im/) {本人的博客啦,关注PHP & Laravel,也写过简单的博客示例[laravel51](https://github.com/mangoim/laravel51)}
+ - [Laravel小抄](http://cheats.jesse-obrien.ca/) {Laravel常用命令集合} 
 
 ##Laravel 开发实例
  - [NauxLiu/PHPHub](https://github.com/NauxLiu/phphub-server) {基于Laravel5.1，并赠送[PHPHub iOS](https://github.com/Aufree/phphub-ios) & [PHPHub Android](https://github.com/CycloneAxe/phphub-android)客户端全家桶}    
@@ -44,7 +45,16 @@
  - [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) {微信 SDK for Laravel}
  - [SocialiteProviders](https://github.com/SocialiteProviders) {第三方登陆包括微信、微博等等，[查看支持列表](http://socialiteproviders.github.io/)}
  - [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) Laravel-Excel扩展}
- - [Intervention/image](https://github.com/Intervention/image) {好用的图片处理，Laravel也方便使用} 
+ - [Intervention/image](https://github.com/Intervention/image) {好用的图片处理，Laravel也方便使用}
+ - [stevenyangecho/laravel-u-editor](https://github.com/stevenyangecho/laravel-u-editor) {百度Ueditor Laravel版}
+ - [argb/laravel-ueditor](https://github.com/argb/laravel-ueditor) {百度Ueditor Laravel版 +1}
+ - [thephpleague/omnipay](https://github.com/thephpleague/omnipay)  {支付集合，包含支付宝等}
+ - [Latrell/Alipay](https://github.com/Latrell/Alipay) {支付宝SDK在Laravel5的封装}
+ - [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang) {Laravel各国语言包，包含简体中文}
+ - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) {Laravel生成二维码工具，亲测好用}
+ 
+
+ 
  
 未完:dog:
 
