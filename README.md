@@ -13,9 +13,9 @@
  
 ##Laravel 教程
 
- - [Laracasts](https://laracasts.com) {Jeff的教程很赞！（部分免费），入门推荐这个[laravel-5-fundamentals](https://laracasts.com/series/laravel-5-fundamentals)}
+ - [Laracasts](https://laracasts.com) {Jeff的教程很赞！（基础教程免费），入门推荐这个[laravel-5-fundamentals](https://laracasts.com/series/laravel-5-fundamentals)}
  - [Laravel5.1视频教程](http://www.phpyc.com/search/tag/44)   {Enda 袁超录制讲的不错！（目前免费）} 
- - [Laravist](https://laravist.com/) {收费，据说价格比较贵}
+ - [Laravist](https://laravist.com/) {Laracasts中文版，基础教程免费}
  
 ##Laravel 社区 
  - [PHPHub](https://phphub.org/) {PHP & Laravel中文社区，比较有质量，另外推荐PHPHub团队维护的[Laravel 中文文档](http://laravel-china.org/)和[PHP之道](http://laravel-china.github.io/php-the-right-way/)} 
