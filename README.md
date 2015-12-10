@@ -16,6 +16,7 @@
  - [Laracasts](https://laracasts.com) {Jeff的教程很赞！（基础教程免费），入门推荐这个[laravel-5-fundamentals](https://laracasts.com/series/laravel-5-fundamentals)}
  - [Laravel5.1视频教程](http://www.phpyc.com/search/tag/44)   {Enda 袁超录制讲的不错！（目前免费）} 
  - [Laravist](https://laravist.com/) {Laracasts中文版，基础教程免费}
+ - [使用 Laravel 5.1 开发博客应用系列教程](https://phphub.org/topics/1564) {文字版教程，英文版[Laravel Coding](http://laravelcoding.com/blog)}
  
 ##Laravel 社区 
  - [PHPHub](https://phphub.org/) {PHP & Laravel中文社区，比较有质量，另外推荐PHPHub团队维护的[Laravel 中文文档](http://laravel-china.org/)和[PHP之道](http://laravel-china.github.io/php-the-right-way/)} 
@@ -36,7 +37,8 @@
 ##Laravel 开发实例
  - [NauxLiu/PHPHub](https://github.com/NauxLiu/phphub-server) {基于Laravel5.1，并赠送[PHPHub iOS](https://github.com/Aufree/phphub-ios) & [PHPHub Android](https://github.com/CycloneAxe/phphub-android)客户端全家桶}    
  - [douyasi/yascmf](https://github.com/douyasi/yascmf) {基于Laravel 5.1，小型内容管理框架}
- - [yccphp/laravel-5-blog](https://github.com/yccphp/laravel-5-blog) {Enda 袁超基于Laravel5.1开发的博客系统} 
+ - [yccphp/laravel-5-blog](https://github.com/yccphp/laravel-5-blog) {Enda 袁超基于Laravel5.1开发的博客系统}
+ - [October CMS](https://octobercms.com/)  {基于Laravel CMS}
  
 ##Laravel 扩展包
  - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) {Laravel 开发调试神器！}
