@@ -6,7 +6,7 @@
 
  - [Laravel 官方文档](http://laravel.com/)       —— 英文
  - [Laravel 中文文档](http://laravel-china.org/) —— laravel-china版
- - [Laravel 中文文档](http://laravel-china.org/) —— golaravel版
+ - [Laravel 中文文档](http://www.golaravel.com/) —— golaravel版
 
 ##Laravel 新闻
  - [Laravel News](https://laravel-news.com/) —— Laravel官方新闻 
