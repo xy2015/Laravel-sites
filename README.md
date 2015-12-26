@@ -59,7 +59,7 @@
  - [Latrell/Alipay](https://github.com/Latrell/Alipay) —— 支付宝SDK在Laravel5的封装
  - [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang) —— Laravel各国语言包，包含简体中文
  - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) —— Laravel生成二维码工具，亲测好用
- 
+ - [zgldh/qiniu-laravel-storage](https://github.com/zgldh/qiniu-laravel-storage) —— 七牛SDK for Laravel
 
  
  
