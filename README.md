@@ -44,13 +44,13 @@
  - [LavaLite](https://github.com/LavaLite/cms) —— 基于Laravel 5.1 & Bootstrap 3的内容管理系统
  - [TypiCMS](https://github.com/TypiCMS/Base) —— 基于 Laravel 5 构建的、支持多语言的内容管理系统
  - [Laravel and AngularJS CMS ](https://github.com/DimitriMikadze/laravel-angular-cms) —— 基于Laravel 5.1和AngularJS的CMS
+ - [vieasehub/viease](https://github.com/vieasehub/viease) —— 微易，一款微信公众平台管理系统。基于overtrue微信SDK开发
 
 ##Laravel 扩展包
  - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) ——  Laravel 开发调试神器！
  - [romanbican/roles](https://github.com/romanbican/roles) —— Laravel权限扩展包，支持Laravel5.1，本人用的体验不错。
  - [argb/laravel-ueditor](https://github.com/argb/laravel-ueditor) —— Ueditor Laravel版
  - [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) —— 微信SDK for Laravel
- - [vieasehub/viease](https://github.com/vieasehub/viease) —— 微易，一款微信公众平台管理系统。基于overtrue微信SDK开发
  - [SocialiteProviders](https://github.com/SocialiteProviders) —— 第三方登陆包括微信、微博等等，[查看支持列表](http://socialiteproviders.github.io/)
  - [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) —— Laravel-Excel扩展
  - [Intervention/image](https://github.com/Intervention/image) —— 好用的图片处理，Laravel也方便使用
