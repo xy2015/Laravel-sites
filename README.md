@@ -49,7 +49,8 @@
  - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) ——  Laravel 开发调试神器！
  - [romanbican/roles](https://github.com/romanbican/roles) —— Laravel权限扩展包，支持Laravel5.1，本人用的体验不错。
  - [argb/laravel-ueditor](https://github.com/argb/laravel-ueditor) —— Ueditor Laravel版
- - [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) —— 微信 SDK for Laravel
+ - [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) —— 微信SDK for Laravel
+ - [vieasehub/viease](https://github.com/vieasehub/viease) —— 微易，一款微信公众平台管理系统。基于overtrue微信SDK开发
  - [SocialiteProviders](https://github.com/SocialiteProviders) —— 第三方登陆包括微信、微博等等，[查看支持列表](http://socialiteproviders.github.io/)
  - [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) —— Laravel-Excel扩展
  - [Intervention/image](https://github.com/Intervention/image) —— 好用的图片处理，Laravel也方便使用
@@ -61,6 +62,12 @@
  - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) —— Laravel生成二维码工具，亲测好用
  - [zgldh/qiniu-laravel-storage](https://github.com/zgldh/qiniu-laravel-storage) —— 七牛SDK for Laravel
 
+ ##Laravel 相关
  
- 
+ ###Composer
+ - [Composer](https://getcomposer.org/) —— Composer官网(需要梯子)
+ - [Packagist](https://packagist.org/) —— Packagist官网
+ - [Packagist / Composer 中国全量镜像](http://pkg.phpcomposer.com/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
+ - [Packagist中国镜像站](http://packagist.cn/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
+
 未完:dog:
