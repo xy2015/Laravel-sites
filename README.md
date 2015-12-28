@@ -62,12 +62,16 @@
  - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) —— Laravel生成二维码工具，亲测好用
  - [zgldh/qiniu-laravel-storage](https://github.com/zgldh/qiniu-laravel-storage) —— 七牛SDK for Laravel
 
- ##Laravel 相关
+##Laravel 相关
  
- ###Composer
+###Composer
  - [Composer](https://getcomposer.org/) —— Composer官网(需要梯子)
  - [Packagist](https://packagist.org/) —— Packagist官网
  - [Packagist / Composer 中国全量镜像](http://pkg.phpcomposer.com/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
  - [Packagist中国镜像站](http://packagist.cn/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
+ 
+###其他
+ - [Google](https://www.google.com) —— Google一下 你就知道
+ - [Stack Overflow](http://stackoverflow.com/) —— Stack Overflow大部分技术问题都能在上面找到答案
 
 未完:dog:
