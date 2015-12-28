@@ -71,7 +71,7 @@
  - [Packagist中国镜像站](http://packagist.cn/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
  
 ###其他
- - [Google](https://www.google.com) —— Google一下 你就知道
+ - [Google](https://www.google.com) —— 建议使用英文关键词搜索
  - [Stack Overflow](http://stackoverflow.com/) —— Stack Overflow大部分技术问题都能在上面找到答案
 
 未完:dog:
