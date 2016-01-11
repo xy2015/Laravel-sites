@@ -69,7 +69,10 @@
  - [Packagist](https://packagist.org/) —— Packagist官网
  - [Packagist / Composer 中国全量镜像](http://pkg.phpcomposer.com/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
  - [Packagist中国镜像站](http://packagist.cn/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
- 
+###Hometead 相关
+ - [Win Laravel Homestead](http://www.kyomini.com/content_16.html) —— win平台安装Homestead教程
+ - [Mac Laravel Homestead](http://www.kyomini.com/content_11.html) —— Mac平台安装Homestead教程
+
 ###其他
  - [Google](https://www.google.com) —— 建议使用英文关键词搜索
  - [Stack Overflow](http://stackoverflow.com/) —— Stack Overflow大部分技术问题都能在上面找到答案
